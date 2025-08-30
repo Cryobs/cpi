@@ -1,2 +1,4 @@
-CPI
-       Simple C program to generate pi
+NAME
+       cpi - simple C program to generate pi
+
+       
